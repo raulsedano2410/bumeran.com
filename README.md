@@ -1,4 +1,4 @@
 # bumeran.com
-Scraper for www.bomeran.com.pe
+Scraper for www.bumeran.com.pe
 
 ongoing project...
